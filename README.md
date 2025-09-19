@@ -1,3 +1,3 @@
-<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf28a295-38e7-4a79-ae75-e5a5519f12fc" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0febb6d2-5e8f-4379-9b36-03701c83e8e8" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Cut&duration=2500&pause=1000&color=B58A4C&width=150&lines=...art+by+veilziz" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zalando+Sans+Expanded&pause=1000&color=F78D26&width=435&lines=Mein+Kopf+geh%C3%B6rt+mir." alt="Typing SVG" /></a>
